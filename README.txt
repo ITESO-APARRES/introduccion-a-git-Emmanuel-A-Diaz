@@ -1,0 +1,1 @@
+Este es el segundo paso del ejercicio de GIT
